@@ -1,6 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Koushik Thota and I'm a Data engineer. You can find me on [LinkedIn](www.linkedin.com/in/koushikt).
+[link text itself]: http://www.reddit.com
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
