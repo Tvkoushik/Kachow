@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a seasoned Data Engineer specialized in designing, developing, and optimizing scalable batch & streaming data pipelines. With a knack for Data Warehousing and ETL frameworks, I'm here to turn data into actionable insights.
 
 🔗 Let's Connect:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/koushikt/)
+[LinkedIn](https://www.linkedin.com/in/koushikt/)
 
 ## 🛠️ Skills and Expertise
 
