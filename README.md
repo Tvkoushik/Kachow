@@ -1,4 +1,4 @@
-# Hi there, I'm Koushik Thota! 👋
+# Hi there, I'm Koushik! 👋
 
 Welcome to my GitHub profile! I'm a seasoned Data Engineer specialized in designing, developing, and optimizing scalable batch & streaming data pipelines. With a knack for Data Warehousing and ETL frameworks, I'm here to turn data into actionable insights.
 
